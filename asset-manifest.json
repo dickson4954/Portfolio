@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.c10cf5ac.css",
+    "main.js": "/Portfolio/static/js/main.122da146.js",
+    "static/js/453.acca0757.chunk.js": "/Portfolio/static/js/453.acca0757.chunk.js",
+    "static/media/safarirally.png": "/Portfolio/static/media/safarirally.d3094129a5df4219b617.png",
+    "static/media/arsenal.png": "/Portfolio/static/media/arsenal.ff19c03ad44c71416046.png",
+    "static/media/canva.png": "/Portfolio/static/media/canva.65022866fd3df950f4cf.png",
+    "static/media/menu_close.gif": "/Portfolio/static/media/menu_close.0fb0c4d78b6d2bbbe096.gif",
+    "static/media/murithi.jpg": "/Portfolio/static/media/murithi.927a98b46429de7dd7f6.jpg",
+    "static/media/project-5.jpg": "/Portfolio/static/media/project-5.d9026c064d763a3fe958.jpg",
+    "static/media/project-4.jpg": "/Portfolio/static/media/project-4.dd61d6d3015a8e84c006.jpg",
+    "static/media/underline.jpg": "/Portfolio/static/media/underline.525de4b548a63800d676.jpg",
+    "static/media/graduation.jpg": "/Portfolio/static/media/graduation.9d371d1310f1a870c020.jpg",
+    "index.html": "/Portfolio/index.html",
+    "main.c10cf5ac.css.map": "/Portfolio/static/css/main.c10cf5ac.css.map",
+    "main.122da146.js.map": "/Portfolio/static/js/main.122da146.js.map",
+    "453.acca0757.chunk.js.map": "/Portfolio/static/js/453.acca0757.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c10cf5ac.css",
+    "static/js/main.122da146.js"
+  ]
+}
