@@ -57,7 +57,7 @@ export const Pricing = [
           "Website Security",
           "Free Lifetime Hosting",
           "1-5 Pages",
-          "5 Professional Emails",
+          "3 Professional Emails",
           "Fast Loading Speed",
           "Unique Designs",
           "SEO Optimization",
