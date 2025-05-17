@@ -1,6 +1,7 @@
 import React from 'react';
 import './Footer.css';
 import { FaGithub, FaLinkedin, FaTwitter, FaEnvelope, FaInstagram } from 'react-icons/fa';
+import { SiTiktok } from 'react-icons/si'; // TikTok icon from react-icons
 
 import user_icon from '../../src/images/user.jpg';
 
@@ -22,6 +23,16 @@ const Footer = () => {
             </a>
             <a href="mailto:dicksonmurithi155@gmail.com" aria-label="Email">
               <FaEnvelope className="social-icon" />
+            </a>
+            <a href="https://www.instagram.com/nkathawa_jr?igsh=MTNxZGc5NnNiMTNrcg==" target="_blank" rel="noopener noreferrer" aria-label="Instagram">
+              <FaInstagram className="social-icon" />
+            </a>
+           
+            <a href="https://www.tiktok.com/@_its_chief?_t=ZM-8wQVrKUetpX&_r=1" target="_blank" rel="noopener noreferrer" aria-label="TikTok">
+              <SiTiktok className="social-icon" />
+            </a>
+            <a href="https://x.com/nkathawa_jr?t=9I5-xkGwijjS9Qt6jbuvvw&s=09" target="_blank" rel="noopener noreferrer" aria-label="Twitter">
+              <FaTwitter className="social-icon" />
             </a>
           </div>
         </div>

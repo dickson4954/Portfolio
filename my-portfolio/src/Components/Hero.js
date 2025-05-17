@@ -20,9 +20,10 @@ const Hero = () => {
         </div>
         {/* Resume Download Button */}
         <div className='hero-resume'>
-        <a href="/my-portfolio/Resume.pdf" download="Dickson_Murithi_Resume.pdf" className="hero-resume-button">
+       <a href={`${process.env.PUBLIC_URL}/Resume.pdf`} download="Dickson_Murithi_Resume.pdf" className="hero-resume-button">
   Download Resume
 </a>
+
 
           
         </div>
