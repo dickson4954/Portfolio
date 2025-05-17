@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.2a038ffe.css",
-    "main.js": "/Portfolio/static/js/main.5ccd6447.js",
+    "main.js": "/Portfolio/static/js/main.fc799770.js",
     "static/js/453.acca0757.chunk.js": "/Portfolio/static/js/453.acca0757.chunk.js",
     "static/media/recording.mp4": "/Portfolio/static/media/recording.0ba87a31ed5372a22963.mp4",
     "static/media/safarirally.png": "/Portfolio/static/media/safarirally.d3094129a5df4219b617.png",
@@ -14,11 +14,11 @@
     "static/media/graduation.jpg": "/Portfolio/static/media/graduation.9d371d1310f1a870c020.jpg",
     "index.html": "/Portfolio/index.html",
     "main.2a038ffe.css.map": "/Portfolio/static/css/main.2a038ffe.css.map",
-    "main.5ccd6447.js.map": "/Portfolio/static/js/main.5ccd6447.js.map",
+    "main.fc799770.js.map": "/Portfolio/static/js/main.fc799770.js.map",
     "453.acca0757.chunk.js.map": "/Portfolio/static/js/453.acca0757.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2a038ffe.css",
-    "static/js/main.5ccd6447.js"
+    "static/js/main.fc799770.js"
   ]
 }
